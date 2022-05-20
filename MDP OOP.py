@@ -372,28 +372,3 @@ class LayoutPage(Frame):
 
 app = MDP()
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
