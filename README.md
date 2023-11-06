@@ -32,3 +32,7 @@ Choose a grid size and click `start`
 click `Go!!` to start exploying the environment 
 
 once the agent is done exploying the environment, you can click on any starting point and the agent will find the shortest route to the destination!.
+
+## CLI example
+
+if you want to play around and tweek the algorith, you can go to the `/test` directory and run `RL_TEST.py`
