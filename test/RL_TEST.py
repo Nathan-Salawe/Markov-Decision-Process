@@ -69,8 +69,3 @@ for i in range(300):
     e = e * d
     cur_pos = [random.randint(0, len(area)-1),
                random.randint(0, len(area)-1)]
-
-
-for i in area:
-    print(i)
-    print("")
