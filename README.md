@@ -18,6 +18,10 @@ For this implementation. there have 3 states `open`, `obstacle` and `destination
 - agent is given `-1` reward everytime it enters into an `obstacle` state
 - agent is given `+1` reward when it gets to the `destination` state
 
+## Dependencies
+
+This implementation was done without any third party package or module.
+
 ## Running the server
 ```bash
 python3 main.py
@@ -26,3 +30,5 @@ python3 main.py
 Choose a grid size and click `start`
 
 click `Go!!` to start exploying the environment 
+
+once the agent is done exploying the environment, you can click on any starting point and the agent will find the shortest route to the destination!.
