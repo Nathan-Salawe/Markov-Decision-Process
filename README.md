@@ -11,7 +11,7 @@ the markov decision process algorthm was modified slightly drawing inspiration f
 The environment for this project was created using python's `tkinter` package.
 it consists of an MxN grid representing various states.
 
-For this implementation. we have 3 states `open`, `obstacle` and `destination`
+For this implementation. there have 3 states `open`, `obstacle` and `destination`
 
 ## Behaviour
 - agent can move into any free state without being penalized
@@ -22,3 +22,7 @@ For this implementation. we have 3 states `open`, `obstacle` and `destination`
 ```bash
 python3 main.py
 ```
+
+Choose a grid size and click `start`
+
+click `Go!!` to start exploying the environment 
